@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace BasePropertiesTopologicalSpacesFoundationCanonicalLaneLean
+
+-- Root module
+
+end BasePropertiesTopologicalSpacesFoundationCanonicalLaneLean
+end HautevilleHouse
